@@ -138,7 +138,7 @@ input:focus-visible {
   
 
 .tnc {
-    text-align: center;
+    margin: auto;
     margin-top: 1rem;
     font-size: 0.7rem;
     color: #c2c2c2;
