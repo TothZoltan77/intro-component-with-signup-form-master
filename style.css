@@ -154,14 +154,14 @@ input:focus-visible {
 
 
 .foot {
-    font-family: Poppins;
-    padding: 0.5rem;
-    background-color: #ac525294;
-    margin-top: 42rem;
+     font-family: Poppins;
+     padding: 0.5rem;
+     background-color: #ac525294;
+     margin-top: 42rem;
      margin-left: 22rem;
      color: black;
      width: 460px;
-     font-size: 1rem;
+     font-size: 2rem;
      display: flex;
      align-items: center;
      position: absolute;   
