@@ -130,7 +130,7 @@ input:focus-visible {
     border-radius: 5px;   
 }
 
-.btngreen:hover {
+#btngreen:hover {
     background-color: rgb(77, 220, 158);
     transition: all ease-in-out 0.3s;
 
